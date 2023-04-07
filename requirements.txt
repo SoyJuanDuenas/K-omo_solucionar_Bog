@@ -1,14 +1,9 @@
 pandas
-sklearn.datasets
-matplotlib.pyplot
-sklearn.cluster
-sklearn.preprocessing
-sklearn.model_selection
-sklearn.neighbors
-sklearn.metrics
+sklearn
+matplotlib
 numpy
 geopandas
 seaborn
 os
-shapely.geometry
+shapely
 contextily
