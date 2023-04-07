@@ -1,0 +1,14 @@
+pandas
+sklearn.datasets
+matplotlib.pyplot
+sklearn.cluster
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.neighbors
+sklearn.metrics
+numpy
+geopandas
+seaborn
+os
+shapely.geometry
+contextily
